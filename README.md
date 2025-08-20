@@ -19,3 +19,7 @@ The data synthesis table is our grouping of similar findings synthesized under a
 Each synthesized finding also contains the list of raw findings it is based on. The Articles column to the very right is referring to the article ID used previously in the data extraction table.
 
 Finally, a list of discarded findings is a couple of findings that upon further discussion and analysis were found to be irrelevant to our thesis.
+
+### Survey results
+
+This spreadsheet contains the answers from the respondents that took part in our survey.
